@@ -1,0 +1,2 @@
+module BdCsHelper
+end
